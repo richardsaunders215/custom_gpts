@@ -1,4 +1,4 @@
-# custom_gpts
+# Custom GPTs
 A repository of all of the custom GPTs that I have made (Chat GPT, Claude, etc)
 
 
