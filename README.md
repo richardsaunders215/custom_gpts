@@ -2,7 +2,7 @@
 A repository of all of the custom GPTs that I have made (Chat GPT, Claude, etc)
 
 
-https://chatgpt.com/g/g-6864e976e5ec8191acc3d3b6de821787-crypto-bit-magazine-writer-assistant
+
 
 # Crypto Bit Magazine Writer Assistant: 
 
